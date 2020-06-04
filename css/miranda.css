@@ -7,7 +7,7 @@ header.bg {
   text-align: center;
   color: white;
   /* Pon la imagen de fondo */
-  background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+  background-image: url("../img/cocina.jpg");
 
   /* Página completa (altura) */
   height: 100%;
